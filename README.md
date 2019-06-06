@@ -1,5 +1,5 @@
 # Gateway
-Graphql backend service that acts as a gateway for web browser / mobile
+GraphQL backend service that acts as a gateway for web browser / mobile
 
 ## Getting started
 
